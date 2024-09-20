@@ -139,4 +139,3 @@ entity_unit_map = {
   }
 }
 ```
-# Amazon-ml-challenge
